@@ -1,0 +1,10 @@
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+python-dotenv
+ibm-watsonx-ai
+streamlit
+requests
